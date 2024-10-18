@@ -1,4 +1,3 @@
-# audio extensions
 .mp3
 .wav
 .aac
@@ -9,7 +8,6 @@
 .opus
 .aif
 .dsd
-#video extensions
 .mp4
 .avi
 .mkv
